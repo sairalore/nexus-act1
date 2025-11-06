@@ -1,1 +1,1 @@
-export const API_URL_BASE = "https://mock.apidog.com/m1/1088929-1078328-default/books";
+export const URL_LISTA_LIBROS = "https://mock.apidog.com/m1/1088929-1078328-default/books";
